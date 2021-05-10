@@ -11,4 +11,4 @@ Improvements:
 - Create custom model to compare text 
 
 # DEMO
-<img src="demo_gif.gif" width="800" height="400" />
+<img src="demo_gif.gif" width="1000" height="400" />
