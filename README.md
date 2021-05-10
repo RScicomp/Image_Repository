@@ -11,4 +11,4 @@ Improvements:
 - Create custom model to compare text 
 
 # DEMO
-![Alt text](demo_gif.gif "Demo" width="500" height="400")
+![Alt text](demo_gif.gif "Demo" | width="500" height="400")
