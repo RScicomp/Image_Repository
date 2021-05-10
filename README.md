@@ -1,6 +1,6 @@
 # Image Repository
 
-This repository contains code to run an image repository app. In order to install the requirements you can run the setup script called install_test.sh using the command: sh install_test.sh (MAC). Ensure you have python and pip installed. Then you can run the app by running the command: 
+This repository contains code to run an image repository app. It allows uploading, searching by text and searching by image. In order to install the requirements you can run the setup script called install_test.sh using the command: sh install_test.sh (MAC). Ensure you have python and pip installed. Then you can run the app by running the command: 
 
 sh run_app.sh 
 
