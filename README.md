@@ -9,6 +9,6 @@ Improvements:
 - Link to Elastic Search / Cloud Database to store images
 - Create custom model to compare images
 - Create custom model to compare text 
-
+- Speed: Implementing in Flask + Dash
 # DEMO
 <img src="demo_gif.gif" width="1000" height="500" />
