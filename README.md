@@ -12,3 +12,4 @@ Improvements:
 
 # DEMO
 ![Alt text](demo_gif.gif "Demo" | width="500" height="400")
+<img src="demo_gif.gif" width="200" height="400" />
