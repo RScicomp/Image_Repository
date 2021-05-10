@@ -4,6 +4,8 @@ This repository contains code to run an image repository app. In order to instal
 
 sh run_app.sh 
 
+It is also possible to run this app using docker using the docker.sh script. 
+
 Improvements:
 
 - Link to Elastic Search / Cloud Database to store images
